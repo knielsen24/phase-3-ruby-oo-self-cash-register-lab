@@ -1,4 +1,4 @@
-# OO Cash Register Lab
+git@github.com:knielsen24/phase-3-ruby-oo-self-cash-register-lab.git# OO Cash Register Lab
 
 ## Learning Goals
 
